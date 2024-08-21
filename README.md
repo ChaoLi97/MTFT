@@ -34,7 +34,7 @@ The comparative experimental results based on HighD, NGSIM, and Argorse datasets
 
 ![img](result_on_HighD&NGSIM.jpg)
 
-![img](result_on_Argoverse.jpg)
+![img](result_on_Argoverse.png)
 
 **Qualitative results**
 
