@@ -45,7 +45,12 @@ check [LICENSE](LICENSE)
 
 ## Citation
 If you use our source code, please consider citing the following:
-```bibtex
-```
+@article{liu2024multi,
+  title={Multi-scale temporal fusion transformer for incomplete vehicle trajectory prediction},
+  author={Liu, Zhanwen and Li, Chao and Wang, Yang and Yang, Nan and Fan, Xing and Ma, Jiaqi and Zhao, Xiangmo},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+}
 
 
